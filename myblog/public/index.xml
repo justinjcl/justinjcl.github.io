@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Cornejo Leon</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Justin Cornejo Leon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Healthcare</title>
+      <link>//localhost:1313/posts/post1/</link>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/post1/</guid>
+      
+      <description>&lt;p&gt;content&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      
+      <description>&lt;p&gt;Welcome to my website! I’m Justin, an Economics major with a passion for data analytics.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Get in Touch</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/contact/</guid>
+      
+      <description>&lt;p&gt;I&amp;rsquo;m always excited to connect with others! Whether you have a question, want to collaborate, or just want to say hello, feel free to reach out.&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:justincleon@outlook.com&#34;&gt;justincleon@outlook.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/justincornejoleon&#34;&gt;linkedin.com/in/justincornejoleon&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
