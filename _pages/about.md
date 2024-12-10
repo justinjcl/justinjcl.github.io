@@ -16,8 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
- 
+***
 
  
+Hi, I’m Justin, an economics graduate from California State University, East Bay. I’ve always been curious about how people interact—how financial systems, market dynamics, and individual behaviors intersect to shape the world we live in. 
 
-I am a recent graduate with a degree in Economics from California State University, East Bay. Throughout my academic career at EastBay as well as the Peralta College System I was interested in learning more about how people interact with one another and how economic systems shape those interactions. My studies focused on understanding the relationships between financial trends, consumer behavior, and market dynamics.
+While pursuing my degree in Economics, I developed a deep appreciation for the power of data to solve complex problems. Whether it’s identifying trends, improving efficiencies, or crafting strategies, I enjoy turning raw information into meaningful narratives that empower decision-making.
+
+When I’m not diving into data, you’ll likely find me exploring new countries, trying new foods, or experimenting with different hobbies.
