@@ -8,7 +8,7 @@ middle_name: J.
 last_name: Cornejo Leon
 email: justincleon@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to my portfolio! Where I aim to showcase my passion for economics & data.
+  Hey, I'm Justin. Check out some of my work.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -113,7 +113,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  contact: "The best way to reach me is via email at <a href='mailto:justincleon@outlook.com'>justincleon@outlook.com</a>. I typically respond within a day and am happy to connect!"
+   The best way to reach me is via email at <a href='mailto:justincleon@outlook.com'>justincleon@outlook.com</a>. I typically respond within a day and am happy to connect!
 
 
 # -----------------------------------------------------------------------------

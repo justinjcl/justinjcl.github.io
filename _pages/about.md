@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-***
+
 
  
 Hi, I’m Justin, an economics graduate from California State University, East Bay. I’ve always been curious about how people interact—how financial systems, market dynamics, and individual behaviors intersect to shape the world we live in. 
